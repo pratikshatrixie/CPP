@@ -5,6 +5,7 @@ int main()
 {
     int n1;
     
+    cout << "Hello";
     cout << "Enter the number of rows" << endl;
     cin >> n1;
     
